@@ -1,4 +1,4 @@
 d2-save-viewer
 ==============
 
-Javascript save file viewer
+Javascript Diablo II save file viewer
