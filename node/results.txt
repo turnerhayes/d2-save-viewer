@@ -1,0 +1,30 @@
+fileIndex 1
+offset: 767
+length: 9
+byteCount: 2
+offsetBit: undefined
+currentByte: 0 (0)
+shifted: 0
+BIT: 0
+shifted: 0
+BIT: 0
+shifted: 0
+BIT: 0
+shifted: 0
+BIT: 0
+shifted: 0
+BIT: 0
+shifted: 0
+BIT: 0
+shifted: 0
+BIT: 0
+shifted: 0
+BIT: 0
+currentByte: 210 (11010010)
+shifted: 1
+BIT: 1
+bit array: 000000001
+attribute header: gf
+attribute1 bytes: <Buffer 00 d2>
+attribute1: 1
+name bytes: <Buffer 41 74 61 74 75 72 6b 00 00 00 00 00 00 00 00 00>

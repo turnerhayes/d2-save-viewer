@@ -1,0 +1,13 @@
+Ataturk:
+	Level: 21
+	Strength: 110 (base: 105)
+	Dexterity: 25 (base: 20)
+		Defense: 443 
+	Vitality: 61 (base: 55)
+	Energy: 12 (base: 5)
+
+	Experience Points: 196,829
+	Experience Points to next level: 211,000
+
+	In Act 1 (normal)
+	Completed all quests except Andariel (and Charsi imbuing an item)
