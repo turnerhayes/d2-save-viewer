@@ -8,5 +8,8 @@
   },
   "repository": "",
   "author": "Turner Hayes",
-  "license": "BSD"
+  "license": "BSD",
+  "devDependencies": {
+    "should": "~3.1.2"
+  }
 }

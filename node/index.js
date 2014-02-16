@@ -14,4 +14,6 @@ else {
 
 var charFile = files[fileIndex];
 
+console.log('Character file:', 'test/' + charFile + '.d2s');
+
 var viewer = new CharacterViewer('test/' + charFile + '.d2s');
